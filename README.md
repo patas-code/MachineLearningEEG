@@ -1,0 +1,1 @@
+Files necessary to create a CNN model for Image classification based on graphed signal images of EEG's collected from ALzheimer's and control (healthy) patients. To run the Jupyter notebook, ensure that the directory for the files is correct and then run the Jupyter notebook. The directory in the saved notebook is related to Google Colab as the notebook intially ran in Colab.
